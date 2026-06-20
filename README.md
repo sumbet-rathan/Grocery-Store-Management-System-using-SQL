@@ -67,6 +67,3 @@ The project contains the following tables:
 ## Project Outcome
 The project helps identify customer purchasing patterns, top-performing products, supplier contributions, and sales trends, enabling data-driven business decisions and improved operational efficiency.
 
-## Author
-K. Tejaswi
-Aspiring Data Analyst | SQL | Python | Power BI
